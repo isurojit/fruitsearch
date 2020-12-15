@@ -34,6 +34,6 @@ function closeSearch(e){
     document.location.reload();
 }
 
-//justr for fun
+//just for fun
 const heading = document.querySelector('#heading');
 heading.style.cssText= "font-family: 'Langar', cursive;";
